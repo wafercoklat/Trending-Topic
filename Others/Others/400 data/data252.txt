@@ -1,0 +1,19 @@
+Android Q Perkenalkan Fitur Baru: Live Caption sampai Mode Focus 
+
+Google meluncurkan sistem operasi mobile terbarunya Android Q  versi beta. Beberapa fitur baru diperkenalkan termasuk caption otomatis dan mode focus untuk membantu pengguna beraktivitas tanpa gangguan.
+
+Untuk versi beta ini, Google belum mengumumkan kuliner yang akan digunakan sebagai nama resminya. Google selalu memberikan nama makanan untuk tiap versi Android berdasarkan abjad. Tiga versi OS Andorid terakhir diberikan nama Pie, Oreo, dan Nougat.
+
+Sebagai sistem operasi untuk ponsel berteknologi terkini, Google menyatakan Android Q siap digunakan untuk smartphone lipat dan ponsel berteknologi 5G. Untuk smartphone lipat seperti Samsung Galaxy Fold dan Huawei Mate X yang telah diluncurkan, Android Q mendukung aktivitas multi-tugas di beragam dimensi layar.
+
+Android Q juga disiapkan untuk mendukung konektivitas yang lebih cepat sehingga bisa digunakan sebagai platform game berbasis teknologi 5G.
+
+Dalam sistem operasi Android Q, Google juga memperkenalkan fitur Live Caption. Fitur ini secara otomatis menerjemahkan suara yang dimainkan melalui smartphone menjadi teks di layar.
+
+Google menyatakan Live Caption bisa digunakan untuk media video, podcast, pesan audio, dan panggilan suara. Teks muncul tanpa mempergunakan koneksi data melalui seluler atau Wi-Fi. Ini juga berarti privasi bagi pengguna karena fail audio tidak diterjemahkan secara eksternal.
+
+Lewat Android Q, Google juga memberikan keleluasaan lebih bagi pengguna untuk melindungi privasi dengan pengaturan berbagi lokasi. Pengguna, misalnya, bisa memilih hanya berbagi lokasi dengan aplikasi yang sedang digunakan. Ada juga notifikasi jika sebuah aplikasi mengetahui lokasi pengguna di latar belakang.
+
+Fitur Digital Wellbeing yang diluncurkan tahun lalu juga diperbarui. Tahun ini, Google memperkenalkan mode Focus. Pengguna bisa menghentikan notifikasi aplikasi yang dinilai mengganggu seperti email saat sedang bekerja. Selain itu, fitur Family Link yang berfungsi untuk membatasi waktu penggunaan gawai oleh anggota keluarga kini juga bisa beroperasi di semua perangkat Android Q.
+
+ Android  Q versi beta kini tersedia untuk seluruh perangkat Google Pixel dan beberapa ponsel berbasis Android termasuk Asus ZenFone 5Z, Huawei Mate 20 Pro, Nokia 8.1, Oppo Reno, Realme 3 Pro, Vivo X27, Vivo Nex, dan Xiaomi Mi 9.

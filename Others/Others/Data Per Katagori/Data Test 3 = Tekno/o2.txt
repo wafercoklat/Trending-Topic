@@ -1,0 +1,9 @@
+Google Bikin Aplikasi Pembuat Puisi yang Dilengkapi AI
+
+Seni dan budaya merupakan bagian penting dari sebuah perkembangan masyarakat di negara manapun. Bidang tersebut saat ini sedang dirambah oleh Google dalam peningkatan teknologinya.
+
+Dilansir dari laman Android Pit, Sabtu (4/5/2019) bahkan raksasa teknologi asal Amerika tersebut telah meluncurkan aplikasi untuk menyusun puisi menggunakan kecerdasan buatan yang dinamai Poemportraits.
+
+Aplikasi ini dikembangkan oleh penulis kode Ross Goodwin dan artis Es Devlin. Ide itu terwujud tahun lalu, awalnya sebagai karya seni interaktif yang dipamerkan di London. Pada dasarnya, aplikasi ini menggabungkan kecerdasan buatan dengan puisi untuk memproyeksikan puisi yang ditulis di wajah pengguna.
+
+Untuk menghasilkan puisi, aplikasi meminta pengguna untuk memasukkan kata, yang pada gilirannya akan menjadi inspirasi untuk teks yang ditulis oleh AI. Semua puisi yang ditulis akan menjadi bagian dari puisi kolektif. Untuk melakukan ini, AI belajar dengan menggunakan lebih dari 20 juta contoh dari puisi abad ke-19. Dalam praktiknya, kombinasi teks dan gambar menyerupai filter Instagram. 

@@ -1,0 +1,15 @@
+Begini Cara Instagram Periksa Konten Hoax
+
+Konten yang berisi hoax dan misinformasi tidak hanya ramai di Twitter dan Facebook. Instagram juga dipenuhi oleh konten-konten serupa yang tidak bertanggung jawab.
+
+Oleh karena itu, Instagram akan menggunakan proses pengecek fakta yang sama dengan yang digunakan oleh perusahaan induknya, Facebook. Konten yang dianggap hoax tidak akan dihapus, tapi akan dikurangi visibilitasnya. 
+
+"Pendekatan kami terhadap misinformasi sama dengan Facebook - ketika kita menemukan misinfo, daripada menghapusnya, kami akan mengurangi distribusinya," kata juru bicara Instagram, Stephanie Otway seperti dikutip detikINET dari Engadget.
+
+Mulai minggu ini, Instagram akan mengirimkan konten yang berpotensi mengandung hoax dan misinformasi kepada pengecek fakta yang menjadi mitra Facebook. Setelah itu pengecek fakta bisa memilih dan membuktikan konten tersebut mengandung hoax.
+
+Konten yang telah ditandai sebagai hoax nantinya tidak akan muncul lagi di tab Explore dan di hasil pencarian tagar. Tapi jika pengguna sudah mengikuti akun yang memposting konten hoax tersebut mereka akan tetap melihatnya di feed.
+
+Otway mengatakan sistem ini sebenarnya telah direncanakan oleh Instagram sejak pemilu sela AS pada tahun 2018. Saat itu, Instagram telah bekerja sama dengan tim News Feed Integrity Facebook.
+
+Ketika konten gambar yang mengandung hoax ditemukan di Facebook, sistem pengenal foto miliknya juga langsung mencari foto yang sama di Instagram. 

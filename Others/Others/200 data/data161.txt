@@ -1,0 +1,25 @@
+Ilmuwan Ciptakan Alat Pendeteksi Keberadaan Bakteri
+
+Masa-masa pasien mendapat resep antibiotik kuat dari dokter sementara masih harus menunggu hasil laboratorium selama berhari-hari mungkin akan berakhir. Ada sebuah alat yang bisa memberikan hasil tes dalam hitungan menit.
+
+Alat itu diciptakan oleh tim dari Penn State University dan dipaparkan dalam sebuah artikel yang terbit di jurnal Proceedings of the National Academy of Sciences,
+
+Dikembangkan bersama dengan Pak Kin Wong, seorang profesor teknik biomedis dan mekanis, alat tersebut menggunakan teknologi mikro untuk menangkap satu sel bakteri yang kemudian diperiksa dengan mikroskop elektron.
+
+Dengan cara tersebut, para dokter bisa menentukan dalam waktu 30 menit apakah ada bakteri dan kelemahannya terhadap pengobatan. Waktu yang dibutuhkan jauh lebih singkat dari 3-5 hari untuk mendapatkan hasil tes laboratorium saat ini.
+
+“Kita sekarang meresepkan antibiotik meski tidak ada bakteri,” kata Wong kepada AFP.
+
+“Itu peresepan yang berlebihan. Ini salah satu yang kita coba untuk sampakan. Bisakah kita menentukan adanya infeksi bakteri dengan cepat.?”
+
+Menurut artikel para peneliti, selain bisa mendeteksi keberadaan bakteri, alat tersebut juga bisa mulai mengklasifikasi jenis bakteri. Apakah sel-sel bakterinya berbentuk bulat, batang atau spiral.
+
+“Alat ini menentukan keberadaan bakteri, namun bukan jenis bakterinya,” kata Wong. “Yang kami sedang kerjakan adalah pendekatan molekuler komplementer yang membantu kita mengidentifikasi spesiesnya.”
+
+Setelah menemukan adanya bakteri, sample diberikan antibiotik untuk menentukan apakah jenis bakteri itu punya resistensi. Dalam kasus seperti ini, intervensi antibiotik terbukti tidak efektif.
+
+“Infeksi saluran kencing adalah yang infeksi bakteri yang paling sering,” kata Wong.
+
+“Tapi lebih dari 75 persen dari spesimen urin yang dikirim ke laboratorium mikrobiologi klinis, hasilnya negatif. Mengesampikan atau memastikan keberadaan bakteria pada konsentrasi klinis yang relevan akan secara dramatis meningkatkan perawatan untuk pasien.”
+
+Dia menambahkan bahwa tim sudah mengajukan paten sementara dan diharapkan bisa menjual alat itu ke pasaran dalam waktu tiga tahun. Tapi sebelumnya mereka berharap bisa memperkecil ukuran alat agar bisa digunakan di rumah sakit dan tempat praktek dokter. 

@@ -1,0 +1,121 @@
+Trending Topics - Jumat 10 May 2019
+#quick-count
+#jokowi
+#prabowo
+#2019gantipresiden
+#ibu kota pindah
+#setan gundul
+#ramadhan 2019
+
+
+Tag perData (#quick-count) :
+data1 :  hitung cepat, quick count, pemilu 2019 
+data2 :  pemilu 2019, hitung cepat, quick count, statistik 
+data3 :  hitung cepat, quick count, real count, kpu, pemilu 2019 
+data4 :  hitung cepat, quick count, real count, kpu, pilpres 2019, pemilu 2019 
+data5 :  serang, banten, ma'ruf amin, quick count, pilpres 2019 
+data6 :  adly fayruz, artis, caleg, quick count, optimistis, senayan, partai nasdem 
+data7 :  pemilu 2019, pilpres 2019, real count bpn, klaim kemenangan prabowo, quick count penghitungan suara, jokowi-ma'ru amin, prabowo-sandiaga 
+data8 :  pilpres 2019, ma'ruf amin, jokowi-ma'ruf amin, quick count, real count 
+data9 :  prabowo subianto, prabowo-sandiaga, pilpres 2019, pemilu 2019, pilgub dki, 2017 quick count 
+data10 :  pilpres 2019, pan, bara hasibuan, quick count, prabowo 
+data11 :  pemilu 2019, pilpres 2019, fadli zon, hitung cepat, quick count 
+data12 :  pilpres 2019, bara hasibuan, quick count, hasil sementara pilpres 2019, jokowi 
+data13 :  quick count, jokowi, jokowi, harapan presiden terpilih, maritim
+data14 :  pilpres 2019, pengusaha, quick count 
+data15 :  prabowo, erin taulany, erin taulany prabowo, andre taulany, pemilu 2019, quick count 
+data16 :  quick count, pilpres 2019, pemilu 2019 
+data17 :  sudirman said, prabowo subianto, quick count, pilpres 2019, pemilu 2019 
+data18 :  berita terpopuler, pilpres 2019, quick count, saham saratoga, sandiaga uno 
+data19 :  pilpres 2019, pemilu 2019, joko widodo, jokowi, quick count
+data20 :  pilpres 2019, quick count, investor, bpn prabowo-sandiaga 
+data21 :  jokowi, pilpres 2019, pengusaha, quick count 
+data22 :  pilpres 2019, quick count, pengusaha, investor 
+data23 :  lsi denny ja, quick count, pilpres 2019, pemilu 2019, hitung cepat, jokowi-ma'ruf amin, prabowo-sandiaga 
+data24 :  pilpres 2019, quick count, pengusaha, investor 
+data25 :  pilpres 2019, pemilu 2019, quick count, hitung cepat, charta politika, yunarto wijaya 
+
+Tag perData (#jokowi) :
+data26 :  pilpres 2019, aceh, pdip, jokowi, jokowi-ma'ruf amin 
+data27 :  sandiaga uno, sandiaga uno, sandi uno, pertumbuhan ekonomi, jokowi 
+data28 :  presiden jokowi, jokowi, bpip, syafii maarif 	
+data29 :  palangkaraya, tugu soekarno, monumen, ibu kota, ibu kota baru, ibu kota pindah, jokowi 
+data30 :  jokowi-amin, jokowi, rekapitulasi dki, rekapitulasi suara di dki jakarta, pemilu 2019, pilpres 2019 
+data31 :  joko widodo, jokowi, perizinan, izin investasi 
+data32 :  jokowi, bpip, megawati, mahfud md 
+data33 :  izin invetasi, perizinan, izin usaha, joko widodo, jokowi 
+data34 :  jokowi, bappenas, ppn, pembangunan 
+data35 :  pemilu 2019, pilpres 2019, presiden jokowi, jokowi, kpps meninggal  
+data36 :  reshuffle kabinet, reshuffle kabinet jokowi, jokowi, presiden jokowi, reshuffle 
+data37 :  hoax, polri, jokowi pki 
+data38 :  reshuffle, reshuffle kabinet, jokowi, presiden jokowi, thr, thr pns, gaji ke-13
+data39 :  reshuffle kabinet, reshuffle, mensesneg pratikno, jokowi 
+data40 :  reshuffle kabinet, reshuffle, jokowi, menpora, imam nahrawi
+data41 :  reshuffle kabinet, reshuffle, pramono anung, jokowi, seskab
+data42 :  jokowi, ibu kota baru, pemindahan ibu kota, kalimantan tengah 
+data43 :  pemilu 2019, pilpres 2019, jokowi, tkn jokowi-ma'ruf 
+data44 :  reshuffle kabinet, jokowi, pkb, reshuffle 
+data45 :  palangkaraya, pemindahan ibu kota, jokowi, ibu kota baru 
+data46 :  pemilu 2019, pilpres 2019, situng kpu, jokowi, prabowo
+data47 :  jokowi, ibu kota baru 
+data48 :  jokowi, joko widodo, palangkaraya 
+data49 :  jokowi, presiden joko widodo, palangka raya, kalimantan tengah
+data50 :  pemalang, kpu pemalang, pemilu 2019, pilpres 2019, rekapitulasi suara, jokowi jokowi-ma'ruf, amin prabowo 
+
+Tag perData (#prabowo) :
+data51 :  prabowo, pks, pemilu 2019 
+data52 :  pemilu 2019, pilpres 2019, prabowo subianto, prabowo, bpn prabowo-sandiaga 
+data53 :  prabowo subianto, prabowo, yusuf martak, mabes polri, bachtiar nasir, bachtiar nasir tersangka 
+data54 :  pemalang, kpu pemalang pemilu 2019, pilpres 2019, rekapitulasi suara, jokowi, jokowi-ma'ruf, amin prabowo 
+data55 :  bantul, kpu, diy, pemilu 2019, pilpres 2019, rekapitulasi suara, rekapitulasi suara di diy, jokowi, jokowi-ma'ruf amin, prabowo
+data56 :  ttim hukum nasional kaji ucapan tokoh, wiranto, bpn prabowo-sandiaga, andre rosiade, prabowo, pilpres 2019 
+data57 :  bachtiar nasir, bachtiar nasir tersangka, kertanegara, prabowo
+data58 :  wonogiri, kpu wonogiri, rekapitulasi suara, pemilu 2019, pilpres 2019, jokowi, prabowo 
+data59 :  pemilu 2019, pilpres 2019, prabowo subianto, prabowo
+data60 :  setan gundul, prabowo, hidayat nur wahid, pilpres 2019, pemilu 2019, jansen sitindaon, andi arief, round-up 
+data61 :  partai demokrat, demokrat, ahy bertemu jokowi, bpn prabowo-sandiaga, prabowo, pemilu 2019, pilpres 2019 
+data62 :  prabowo-sandiaga, pilpres 2019, pemilu 2019, prabowo, kecurangan pemilu
+data63 :  cilegon, kpu, pemilu 2019, pilpres 2019, rekapitulasi, prabowo 
+data64 :  setan gundul, pemilu, andi arief, prabowo, hidayat nur wahid, pemilu 2019
+data65 :  andi arief, setan gundul, prabowo, demokrat
+data66 :  pilpres 2019, kawalpemilu, jokowi, prabowo 	
+data67 :  pilpres 2019, prabowo subianto, prabowo, sandiaga uno, ani yudhoyono 
+data68 :  mardani ali sera, 2019gantipresiden, bpn prabowo-sandiaga, pilpres 2019, prabowo, prabowo subianto 
+data69 :  pilpres 2019, situng kpu, jokowi, prabowo 
+data70 :  pilpres 2019, demokrat, gerindra, jokowi, prabowo, round-up 
+data71 :  pilpres 2019, ramadhan 2019, ramadhan, awal puasa ramadhan, puasa ramadhan, jokowi, prabowo
+data72 :  sandiaga uno, ramadhan 2019, tarawih, pilpres 2019, prabowo
+data73 :  pilpres 2019, kawalpemilu, jokowi, prabowo
+data74 :  pemilu 2019, pilpres 2019, rekapitulasi, jokowi, prabowo, birojatim 
+data75 :  pilpres 2019, situng kpu, sandiaga uno, prabowo subianto, prabowo 
+
+Tag perData (#2019gantipresiden) :
+data76 :    mardani ali sera, 2019gantipresiden, tkn jokowi-ma'ruf, bpn prabowo-sandiaga, round-up
+data77 :   2019gantipresiden, pilpres 2019, mardani ali sera 
+data78 :   pilpres 2019, 2019gantipresiden, 2019 ganti presiden, mardani ali sera
+data79 :  pilpres 2019, 2019gantipresiden, 2019 ganti presiden, mardani ali sera 
+data80 :  habib rizieq, 2019gantipresiden, 2019prabowopresiden, pilpres 2019 
+data81 :   pilpres 2019, habib rizieq syihab, mardani ali sera, 2019gantipresiden,2019prabowopresiden 
+data82 :  habib rizieq, 2019gantipresiden, 2019prabowopresiden 
+data83 :  2019gantipresiden, komnas ham, polri 
+data84 :  2019gantipresiden, komnas ham, neno warisman, polri 
+data85 :  pilpres 2019, 2019gantipresiden, dahnil anzar simanjuntak 
+data86 :  bawaslu, pilpres 2019, 2019gantipresiden 
+data87 :  ma'ruf amin, jokowi-ma'ruf amin, pilpres 2019, 2019gantipresiden
+data88 :  2019gantipresiden, 2019 ganti presiden, ganjar pranowo 
+data89 :  mahfud md, mahfud md tolak, 2019gantipresiden, 2019gantipresiden, 2019 ganti presiden
+data90 :  deklarasi 2019gantipresiden, 2019ganti presiden di banyuwangi, 2019gantipresiden 
+data91 :  2019gantipresiden, arsul sani, pilpres 2019 
+data92 :  deklarasi 2019gantipresiden, 2019gantipresiden 2019ganti, presiden di banyuwangi 
+data93 :  2019 ganti presiden, 2019gantipresiden, tangsel 
+data94 :  2019gantipresiden, mardani ali sera
+data95 :  2019 ganti presiden, 2019gantipresiden, ganti presiden
+data96 :  2019gantipresiden, deklarasi ganti presiden 
+data97 :  2019gantipresiden, 2019 ganti presiden 
+data98 :  2019gantipresiden, banyuwangi, birojatim 
+data99 :  haji2018, 2019gantipresiden 
+data100 :  ratna sarumpaet, 2019gantipresiden, 2019gantipresiden ditolak
+
+d77
+
+ 

@@ -1,0 +1,11 @@
+Google Lens Akan Bisa Bantu Pilih Makanan di Restoran
+
+Google menunjukkan kemampuan terbaru Google Lens. Pengguna Lens tak perlu bingung memilih makanan di sebuah restoran karena Lens bisa ikut bantu memberi rekomendasi lewat menu populer di tempat itu.
+
+Vice President and General Manager for Camera and AR Product Google Aparna Chennapragada mengatakan, Lens memanfaatkan teknologi machine learning (ML), visi komputer, dan puluhan miliar fakta dalam Knowledge Graph untuk menjawab kebutuhan pengguna.
+
+"Katakanlah Anda berada di sebuah restoran, kemudian mencari tahu makanan untuk dipesan. Arahkan Lens ke menu, hasilnya secara otomatis menu makanan populer akan tampak," ujarnya di Google I/O 2019, Shoreline Amphitheatre, Mountain View,
+
+Dalam peningkatan kemampuannya itu, Lens mampu memberi informasi mengenai hasil ulasan orang lain terkait menu makanan di restoran tersebut bahkan turut bantu menghitung tagihannya.
+
+Google Lens, yang juga piawai mendeteksi tulisan asing dan menerjemahkan lebih dari 100 bahasa, turut dijanjikan bakal terus memberi informasi dan kemudahan serupa buat pengguna.

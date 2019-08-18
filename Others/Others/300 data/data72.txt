@@ -1,0 +1,17 @@
+Antara Intelijen China, WannaCry, dan NSA
+
+Ransomware WannaCry yang sempat bikin heboh pada 2017 lalu ternyata dibuat berdasarkan alat mata-mata National Security Agency (NSA) milik AS, yang dicuri oleh intelijen China.
+
+Pada 2017 lalu, sebuah grup bernama Shadow Brokers menyebarkan seperangkat alat peretasan yang berakibat pada penjebolan jaringan komputer besar-besaran di dunia, termasuk penyebaran ransomware WannaCry.
+
+Saat itu, diketahui kalau alat peretasan itu berasal dari NSA. Namun, yang belum terungkap kala itu adalah bagaimana alat tersebut bisa bocor ke publik dan berdampak besar pada keamanan cyber di seluruh dunia.
+
+Namun kini penyebabnya terungkap dari sebuah laporan keluaran Symantec, yang menyebut kalau sumber kebocoran alat peretasan tersebut kemungkinan adalah agen intelijen China, yang berhasil 'mengamankan' alat ini saat NSA menyerang komputer intelijen China.
+
+Menurut Symantec, grup Buckeye yang merupakan sebuah kontraktor Chinese Ministry of State Security asal Guangzhou, ternyata sudah menggunakan alat peretasan tersebut setahun sebelum Shadow Brokers menyebar alat tersebut ke publik.
+
+Symantec menyebut Buckeye mengamankan alat tersebut ketika NSA menyerang mereka. Alat ini pun kemudian dimodifikasi sesuai dengan kebutuhan Buckeye,
+
+Buckeye sendiri disebut adalah aktor di balik sejumlah serangan terhadap satelit dan teknologi nuklir milik AS. Tak salah jika NSA menganggap Buckeye sebagai salah satu kontraktor China yang paling berbahaya.
+
+Lebih lanjut Symantec menyebut alat tersebut kemudian dipakai untuk melancarkan serangan cyber ke sejumlah badan riset, institusi pendidikan, dan sejumlah infrastruktur lain di Belgia, Luksemburg, Vietnam, Filipina, dan hong Kong.

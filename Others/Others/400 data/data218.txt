@@ -1,0 +1,15 @@
+Microsoft Patenkan Kontroler Xbox dengan Display Braille
+
+ Microsoft terus berupaya memberi aksesibilitas ke semua gamer, termasuk yang punya keterbatasan fisik. Yang teranyar adalah kontroler Xbox dengan display Braille.
+
+Hal itu terungkap dari paten yang didaftarkan Microsoft pada bulan Oktober 2018. Dokumen yang memperlihatkan desain kontroler tersebut baru tersedia untuk publik tanggal 2 Mei dan langsung menjadi perhatian situs Belanda Let's Go Digital.
+
+Desainnya terlihat sama saja dengan desain kontroler Xbox pada umumnya. Tapi di bagian belakang terlihat ada tiga "jari" masing-masing di sisi kanan dan kiri.
+
+Jari-jari inilah yang menjadi display Braille. Display ini terdiri dari matrix dot yang dapat mereproduksi titik-titik timbul yang bisa dirasakan dengan jari, dan juga jari untuk input dan output yang bisa ditukar-tukar. 
+
+Enam jari ini mewakili enam posisi titik-titik yang menyusun sebuah karakter Braille. Pengguna bisa menggunakannya untuk input teks atau menerima komunikasi dalam bentuk teks. 
+
+Fitur ini sangat berguna untuk gamer yang punya keterbatasan dalam penglihatan sehingga kesulitan untuk melihat teks di layar yang menunjukkan status, item, atau dialog dalam game.
+
+Walaupun sudah hadir dalam bentuk paten, tapi belum tentu Microsoft benar-benar mengembangkan produk ini. Microsoft juga belum memberikan keterangan resmi, tapi diperkirakan akan ada informasi tambahan saat gelaran E3 pada bulan Juni mendatang.

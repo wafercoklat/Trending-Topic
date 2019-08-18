@@ -1,0 +1,23 @@
+Cara Mengirimkan File dan Folder Via Google Drive
+
+Google memiliki aplikasi yang membantu kita untuk berbagi dokumen, file, dan folder secara online. Kita dapat mengunggah semuanya ke Google Drive hanya dalam hitungan menit.
+
+Aplikasi ini memungkinkan Anda untuk berbagi folder lebih cepat dan mudah. Sebab, hampir setiap orang menggunakan minimal satu produk Google.
+
+Namun, beberapa orang masih kesulitan untuk berbagai file dan folder melalui Google Drive. Nah, begini cara mengirimkan file dan older melalui Google Drive.  
+
+Anda harus membuat folder di Google Drive. Caranya, Anda dapat mengunjungi laman https://drive.google.com.
+Pastikan akun Google Anda sudah aktif, jika belum Google Drive akan meminta Anda melakukannya.
+
+Setelah itu, Anda akan melihat semua file dan folder yang tersimpan dalam Google Drive Anda.
+Untuk membuat folder baru, Anda klik menu "New" di sudut kiri atas layar.
+
+Setelah itu, Anda akan melihat menu drop-down dan pilih "Folder". Bila Anda ingin mengunggah folder yang sudah tersimpan, pilih "Folder upload".
+
+Kemudian Anda akan mendapatkan jendela pop-up untuk memberikan judul folder baru tersebut. Anda dapat menamainya sesuai keinginan.
+
+Setelah itu, Anda dapat menekan Enter pada key board. Kemudian, Anda akan melihat folder tersebut muncul di daftar Google Drive. Anda dapat mengklik judul folder untuk membukanya.
+
+Bila Anda ingin mengunggah file, caranya klik kanan pada layar dan pilih "File upload".
+
+Setelah berhasil, Anda sudah bisa berbagi folder. Pastikan Anda sudah membuka folder yang ingin dibagi. Anda dapat klik kanan pada judul folder kemudian pilih opsi "Share".

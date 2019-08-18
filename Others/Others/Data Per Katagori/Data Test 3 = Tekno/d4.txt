@@ -1,0 +1,13 @@
+Nasib Aplikasi Terblokir Saat Pakai Akun Sama di Dua Ponsel
+
+Dua ponsel dalam satu email akan tetapi aplikasi di dalam akun email yang sama terblokir apakah sudah tidak bisa terlihat d ponsel keduanya. 
+
+Saya agak kurang jelas dengan pertanyaannya, tapi saya mencoba menangkap begini, Kita punya dua smartphone (android) yang keduanya menggunakan akun Google yang sama.
+
+Jadi email yang sama menjadi tanda pengenal akun di Google Play Store. Kemudian ada aplikasi di salah satu smartphone terblokir, tidak bisa lagi digunakan dengan akun yang sama.
+
+Apakah masih bisa dilihat di ponsel yang satunya? Kalau melihat kejadian ini, berarti aplikasi ini harus digunakan secara online, dan server aplikasi mengecek apakah pengguna memiliki hak menggunakan aplikasi tersebut, misalnya aplikasi berbayar.
+
+Atau ada juga aplikasi yang memiliki batas pengguna dengan akun yang sama, misal hanya bisa digunakan di 2 buah device, dan server aplikasi menyimpan selain data akun pengguna, juga data device tersebut, misal dari serial number atau IMEI device.
+
+Karena sifatnya online, otomatis pada ponsel kedua yang menggunakan akun yang sama, jika aplikasi diblokir developer (pembuat aplikasi) berdasarkan akun pengguna, maka nasibnya akan sama, turut diblokir.
